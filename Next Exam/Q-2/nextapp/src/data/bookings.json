@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "hotel": "Ocean View Resort",
+    "guest": "Alice",
+    "nights": 3
+  },
+  {
+    "id": "2",
+    "hotel": "Mountain Lodge",
+    "guest": "Bob",
+    "nights": 2
+  }
+]
